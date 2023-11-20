@@ -16,7 +16,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark p-3">
             <div class="container">
-                <a class="navbar-brand" href="#">Pemrograman Web: nim nama</a>
+                <a class="navbar-brand" href="#">Pemrograman Web: Saverio Agostino_2101020002</a>
                 <button class="btn btn-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                     Sidebar
                 </button>
